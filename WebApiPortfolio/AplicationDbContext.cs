@@ -14,6 +14,6 @@ namespace WebApiPortfolio
         }
 
         public DbSet<Autor> Autores{ get; set; }
-        public DbSet<Libro> Libros { get; set; }//coloco explicitamente el dbset libros para realizar querys especificamente en la tabla libros
+        public DbSet<Libro> Libros { get; set; }//coloco explicitamente el dbset libros para poder realizar querys especificamente en la tabla libros
     }
 }
