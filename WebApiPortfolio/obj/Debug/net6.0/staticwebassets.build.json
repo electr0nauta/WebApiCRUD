@@ -1,11 +1,37 @@
 {
   "Version": 1,
-  "Hash": "rFX/g6hWpFRTUzuoVF+1PLBSSgQoMICh7vdwOOsTHTo=",
+  "Hash": "boPw3gsHBoIviHcxwdRhlxPrRDrulbEu8sYby5Gh5NM=",
   "Source": "WebApiPortfolio",
   "BasePath": "_content/WebApiPortfolio",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApiPortfolio\\wwwroot",
+      "Source": "WebApiPortfolio",
+      "ContentRoot": "C:\\Users\\elect\\source\\repos\\WebApiPortfolio\\WebApiPortfolio\\wwwroot\\",
+      "BasePath": "_content/WebApiPortfolio",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\elect\\source\\repos\\WebApiPortfolio\\WebApiPortfolio\\wwwroot\\Archivo1.txt",
+      "SourceId": "WebApiPortfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\elect\\source\\repos\\WebApiPortfolio\\WebApiPortfolio\\wwwroot\\",
+      "BasePath": "_content/WebApiPortfolio",
+      "RelativePath": "Archivo1.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Archivo1.txt"
+    }
+  ]
 }
