@@ -82,3 +82,5 @@ C:\Users\elect\source\repos\WebApiPortfolio\WebApiPortfolio\bin\Debug\net6.0\run
 C:\Users\elect\source\repos\WebApiPortfolio\WebApiPortfolio\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\elect\source\repos\WebApiPortfolio\WebApiPortfolio\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\elect\source\repos\WebApiPortfolio\WebApiPortfolio\bin\Debug\net6.0\WebApiPortfolio.staticwebassets.runtime.json
+C:\Users\elect\source\repos\WebApiPortfolio\WebApiPortfolio\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\elect\source\repos\WebApiPortfolio\WebApiPortfolio\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

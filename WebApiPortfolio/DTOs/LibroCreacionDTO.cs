@@ -1,11 +1,10 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using WebApiPortfolio.Validaciones;
 
-namespace WebApiPortfolio.Entidades
+namespace WebApiPortfolio.DTOs
 {
-    public class Libro
+    public class LibroCreacionDTO
     {
-        public int Id { get; set; }
         [PrimeraLetraMayuscula]
         [StringLength(maximumLength: 250)]
         public string Titulo { get; set; }

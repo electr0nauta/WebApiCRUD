@@ -12,7 +12,7 @@ namespace WebApiPortfolio
         public ApplicationDbContext(DbContextOptions options) : base(options)
         {
         }
-
+        
         public DbSet<Autor> Autores{ get; set; }
         public DbSet<Libro> Libros { get; set; }//coloco explicitamente el dbset libros para poder realizar querys especificamente en la tabla libros
     }
